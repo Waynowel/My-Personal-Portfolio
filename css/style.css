@@ -983,3 +983,12 @@ input:checked ~ span::after {
   width: 100%;
   margin-top: 30px;
 }
+#goals {
+  font-size: 25px;
+  padding-top: 100px;
+  color: white;
+}
+.container4 {
+  width: 100%;
+  margin-top: 30px;
+}
